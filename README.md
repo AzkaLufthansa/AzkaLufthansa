@@ -27,4 +27,4 @@ My name is <i><b>Muhammad Azka Lufthansa</b></i>. I'm still a student from Indon
 ### :fire: My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AzkaLufthansa&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azkalufthansa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azkalufthansa&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
