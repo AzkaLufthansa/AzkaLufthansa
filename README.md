@@ -9,7 +9,7 @@ My name is <i><b>Muhammad Azka Lufthansa</b></i>. I'm still a student from Indon
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azkalufthansa&label=Profile%20views&color=0e75b6&style=flat" alt="azkalufthansa" /> </p>
 
-- 🏫 Now I'm studying at SMKn 1 Katapang
+- 🏫 Now I'm studying at SMKN 1 Katapang
 
 - 💻 I want to be a full stack developer
 
