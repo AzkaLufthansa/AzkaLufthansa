@@ -12,9 +12,7 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azkalufthansa&show_icons=true&theme=dark&locale=en&layout=compact" alt="azkalufthansa" /></p><br>
-
-<hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azkalufthansa&show_icons=true&theme=dark&locale=en&layout=compact" alt="azkalufthansa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azkalufthansa&show_icons=true&theme=dark&locale=en" alt="azkalufthansa" /></p>
 
