@@ -4,7 +4,7 @@
 
 ---
 
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey There
+### 👋 Hey There
 My name is <i><b>Muhammad Azka Lufthansa</b></i>. I'm still a student from Indonesia, Bandung. I like about technology especially Programming and I'm interested in web development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azkalufthansa&label=Profile%20views&color=0e75b6&style=flat" alt="azkalufthansa" /> </p>
