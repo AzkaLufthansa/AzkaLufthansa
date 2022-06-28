@@ -5,7 +5,7 @@
 ---
 
 ### 👋 Hey There
-My name is <i><b>Muhammad Azka Lufthansa</b></i>. I'm still a student from Indonesia, Bandung. I like about technology especially Programming and I'm interested in web development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+My name is <i><b>Muhammad Azka Lufthansa</b></i>. I'm still a student from Indonesia, Bandung. I like about technology especially Programming and I'm interested in web and android development. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azkalufthansa&label=Profile%20views&color=0e75b6&style=flat" alt="azkalufthansa" /> </p>
 
@@ -15,7 +15,7 @@ My name is <i><b>Muhammad Azka Lufthansa</b></i>. I'm still a student from Indon
 
 - 🔭 I’m currently working on [cafe-bisa-ngopi](https://github.com/AzkaLufthansa/cafe-bisa-ngopi.git)
 
-- 🌱 I’m currently learning **Laravel and JavaScript**
+- 🌱 I’m currently learning **Flutter**
 
 ---
 
