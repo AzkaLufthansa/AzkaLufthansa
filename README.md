@@ -13,7 +13,7 @@ My name is <i><b>Muhammad Azka Lufthansa</b></i>. I'm still a student from Indon
 
 - 💻 I want to be a full stack developer
 
-[//]: # (- 🔭 I’m currently working on [cafe-bisa-ngopi](https://github.com/AzkaLufthansa/cafe-bisa-ngopi.git))
+- 🔭 I’m currently working on
 
 - 🌱 I’m currently learning **Flutter**
 
